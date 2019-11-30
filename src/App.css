@@ -1,22 +1,51 @@
-.App {
-  text-align: center;
+.headersection{
+  background: url("./images/person-holding-10-us-dollar-banknote-in-front-of-gray-and-929285.jpg");
+  height: 80vh;
+  width: 100%;
+  background-size: cover;
+  background-position:top;
+  background: cover;
+  background-Repeat: no-repeat;
+  background-color: rgba(0, 173, 223, 0.7);
 }
 
-.App-logo {
-  height: 40vmin;
+.hearder-title{
+  font-size: 52px;
+  font-family: 'Anton', sans-serif;
+  font-weight: 900;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.hearder-text{
+  font-size: 25px;
+  font-weight: 700;
+}
+.btn-success{
+  border-radius: 23px;
+}
+.bg-secondary1{
+  color: rgb(206, 205, 205);
+}
+.login-text {
+  font-size: 43px !important;
+  font-weight: 900;
+}
+.btn-primary{
+  border-radius: 23px;
+}
+.nav-link{
+  color: white !important;
+  font-weight: 900;
+}
+.bg-white{
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.navsec{
+  height: 60px !important;
+}
+.new-mobile{
+  font-weight: 900;
 }
 
-.App-link {
-  color: #09d3ac;
+.online-info{
+  font-size: 14px;
 }
